@@ -1,0 +1,15 @@
+.error-color {
+    color: red;
+  }
+  
+  .info-color {
+    color: rgb(85, 219, 228);
+  }
+  
+  .warning-color {
+    color: rgb(220, 220, 0);
+  }
+  
+  .success-color {
+    color: rgb(200, 0, 0);
+  }

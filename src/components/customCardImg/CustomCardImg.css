@@ -1,0 +1,45 @@
+.carousel-title {
+    font-size: 24px; /* Tamaño de fuente por defecto */
+  }
+  
+  .carousel-description {
+    font-size: 14px; /* Tamaño de fuente por defecto */
+  }
+  
+  /* Media queries para ajustar el tamaño del texto en pantallas pequeñas */
+  @media (max-width: 576px) {
+    .carousel-title {
+      font-size: 10px; /* Tamaño de fuente en pantallas pequeñas */
+    }
+  
+    .carousel-description {
+      font-size: 10px; /* Tamaño de fuente en pantallas pequeñas */
+    }
+  }
+  
+  /* Media queries para ajustar el tamaño del texto en pantallas medianas */
+  @media (min-width: 577px) and (max-width: 992px) {
+    .carousel-title {
+      font-size: 10px; /* Tamaño de fuente en pantallas medianas */
+    }
+  
+    .carousel-description {
+      font-size: 10px; /* Tamaño de fuente en pantallas medianas */
+    }
+  }
+  
+  /* Media queries para ajustar el tamaño del texto en pantallas grandes */
+  @media (min-width: 993px) {
+    .carousel-title {
+      font-size: 20px; /* Tamaño de fuente en pantallas grandes */
+    }
+  
+    .carousel-description {
+      font-size: 14px; /* Tamaño de fuente en pantallas grandes */
+    }
+  }
+
+
+
+  
+  
